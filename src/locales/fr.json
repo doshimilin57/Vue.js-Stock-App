@@ -1,0 +1,12 @@
+{
+  "message": "hello i18n !!",
+  "email": "Email ID",
+  "password": "mot de passe",
+  "loginBtn": "S'identifier",
+  "loginTxt": "S'identifier",
+  "invaidCre": "Invalid credentials!",
+  "logoutTxt": "Se déconnecter",
+  "dashboard": "Tableau de bord",
+  "inputSymbol": "Entrez le symbole",
+  "searchBtn": "Chercher"
+}
