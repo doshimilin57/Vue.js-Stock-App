@@ -2,6 +2,9 @@
 
 > show symbol details
 
+Username: admin@gmail.com
+Password: 12345678
+
 ## Build Setup
 
 ``` bash
@@ -19,3 +22,5 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+See Deployed code at this URL: http://stock-info-app.surge.sh/#/
